@@ -9,6 +9,9 @@ A fork from [oh-my-termux](https://github.com/4679/oh-my-termux) 。让你的 Te
 ```shell
 sh -c "$(curl -fsSL https://github.com/mzh741/termux-ohmyzsh/raw/master/i.sh)"
 ```
+```
+sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+```
 
 ## 设置色彩样式：
 运行`chcolor`更换色彩样式，或者：
